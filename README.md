@@ -29,5 +29,5 @@ Download trained model from [here](https://drive.google.com/drive/folders/1QUUVk
 # Inference
 To perform inference over your own images, use the following command:
 ```
-python3 inference.py /path/to/your/image /path/to/ckpt/file
+python inference.py /path/to/your/image /path/to/ckpt/file
 ```
