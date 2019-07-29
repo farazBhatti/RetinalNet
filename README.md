@@ -24,7 +24,7 @@ such as person, animal and in our case artery or vein. This repository provides 
 
 
 # Trained model
-Download trained model from [here](https://drive.google.com/drive/folders/1QUUVkQS_DBVpwA_hZrvP4DZIPAVB6SGj?usp=sharing).
+Download trained model from [here](https://drive.google.com/drive/folders/1QUUVkQS_DBVpwA_hZrvP4DZIPAVB6SGj?usp=sharing) and put it in trained_model folder.
 
 # Inference
 To perform inference over your own images, use the following command:
